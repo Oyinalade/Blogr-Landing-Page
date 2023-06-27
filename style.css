@@ -23,10 +23,7 @@ body {
 .header-btn {
   display: flex;
 }
-/* .test,
-.tes {
-  display: flex;
-} */
+
 .nav-container {
   display: flex;
   color: hsl(0, 0%, 100%);
@@ -80,7 +77,6 @@ body {
   font-size: 15px;
 }
 .btn-1 {
-  /* background-color: hsl(13, 100%, 72%); */
   color: hsl(0, 0%, 100%);
   text-align: end;
   margin-inline-end: 1em;
@@ -226,7 +222,7 @@ body {
 }
 
 .mov {
-  transform: translate(6px, 2px) rotate(180deg);
+  transform: rotate(180deg);
 }
 
 @media (max-width: 900px) {
