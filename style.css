@@ -341,7 +341,7 @@ body {
   }
   .nav-card {
     background-color: hsl(0, 0%, 89%);
-    width: 220px;
+    width: 200px;
     color: black;
     position: relative;
     cursor: pointer;
