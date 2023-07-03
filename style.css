@@ -270,6 +270,9 @@ body {
     align-items: center;
     justify-content: center;
   }
+  .nav-head img{
+    margin-block:0;
+  }
   .landing-page {
     background: url("images/bg-pattern-intro-mobile.svg"),
       linear-gradient(to right, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
